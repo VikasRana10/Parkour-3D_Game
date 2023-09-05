@@ -30,11 +30,11 @@ Follow these simple steps to get started with the game:
 
 ## Screenshots
 
-   ![IMG_20230905_174003](https://github.com/VikasRana10/Parkour-3D_Game/assets/90509555/28b59a58-a16f-4c57-af5f-388ab6efbd2b)
+![Capture](https://github.com/VikasRana10/Parkour-3D_Game/assets/90509555/68038baa-dd7c-4a00-b8c0-db67e45dabf6)
 
-   ![IMG_20230905_174014](https://github.com/VikasRana10/Parkour-3D_Game/assets/90509555/988c06fa-08ab-4543-a2b7-bf9fc3c8402c)
-   
-   ![IMG_20230905_174003](https://github.com/VikasRana10/Parkour-3D_Game/assets/90509555/9a95443c-c207-45c8-9a71-678464cc804f)
+![Capture3](https://github.com/VikasRana10/Parkour-3D_Game/assets/90509555/f762d30f-0b26-441b-858f-a6b5fdaee1a0)
+
+![Capture2](https://github.com/VikasRana10/Parkour-3D_Game/assets/90509555/ce6ac50d-174f-4d6f-8d88-4b58957b7a84)
 
 ## Contributing
 
