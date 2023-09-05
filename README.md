@@ -4,15 +4,7 @@
 ```markdown
 # Parkour3D Game Using Ursina 🏃‍♂️🌟
 
-Welcome to the Parkour3D Game repository! 🎮 This thrilling 3D parkour game is powered by Python and the powerful Ursina 3D engine
-
-## Screenshots
-
-![IMG_20230905_174024](https://github.com/VikasRana10/Parkour-3D_Game/assets/90509555/edf66266-1598-405a-ba06-4b6f1e6538ce)
-
-![IMG_20230905_174014](https://github.com/VikasRana10/Parkour-3D_Game/assets/90509555/14a4ff77-b7fc-4c2c-925f-dddc5d6e1245)
-
-![IMG_20230905_174003](https://github.com/VikasRana10/Parkour-3D_Game/assets/90509555/cb6ea06a-aa34-4840-ade1-9238be0b2178)
+Welcome to the Parkour3D Game repository! 🎮 This thrilling 3D parkour game is powered by Python and the powerful Ursina 3D engine.
 
 ## About the Game
 
@@ -35,6 +27,14 @@ Follow these simple steps to get started with the game:
    ```bash
    python main.py
    ```
+
+## Screenshots
+
+   ![IMG_20230905_174003](https://github.com/VikasRana10/Parkour-3D_Game/assets/90509555/28b59a58-a16f-4c57-af5f-388ab6efbd2b)
+
+   ![IMG_20230905_174014](https://github.com/VikasRana10/Parkour-3D_Game/assets/90509555/988c06fa-08ab-4543-a2b7-bf9fc3c8402c)
+   
+   ![IMG_20230905_174003](https://github.com/VikasRana10/Parkour-3D_Game/assets/90509555/9a95443c-c207-45c8-9a71-678464cc804f)
 
 ## Contributing
 
