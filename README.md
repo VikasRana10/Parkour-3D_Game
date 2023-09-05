@@ -4,7 +4,7 @@
 ```markdown
 # Parkour3D Game Using Ursina 🏃‍♂️🌟
 
-Welcome to the Parkour3D Game repository! 🎮 This thrilling 3D parkour game is powered by Python and the powerful Ursina 3D engine, bringing you an exhilarating and immersive gaming experience.
+Welcome to the Parkour3D Game repository! 🎮 This thrilling 3D parkour game is powered by Python and the powerful Ursina 3D engine
 
 ## About the Game
 
